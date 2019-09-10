@@ -46,5 +46,5 @@ print("token for upload", token)
 ## Installation
 
 ```commandline
-pip install pydex
+pip install pydex-client
 ```

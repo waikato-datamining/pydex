@@ -13,7 +13,7 @@ def _read(f) -> bytes:
 
 
 setup(
-    name="pydex",
+    name="pydex-client",
     description="Python client for the Data Exchange Server REST service (DEX) provided by ADAMS.",
     long_description=(
         _read('DESCRIPTION.rst') + b'\n' +
